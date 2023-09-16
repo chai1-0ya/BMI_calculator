@@ -1,4 +1,4 @@
-# portfolio
+# BMI_calculator
 
 A new Flutter project.
 
